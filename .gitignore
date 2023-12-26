@@ -1,3 +1,7 @@
 */data
+*/model
 *.log
 .idea
+/data/
+/graph/dataset/
+/graph/enzymes/
